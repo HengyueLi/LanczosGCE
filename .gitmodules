@@ -1,0 +1,12 @@
+[submodule "Install"]
+	path = Install
+	url = https://github.com/HengyueLi/Fortran_Install
+[submodule "Incl/ListStructure"]
+	path = Incl/ListStructure
+	url = https://github.com/HengyueLi/ListStructure
+[submodule "Depe/LanczosSubspace"]
+	path = Depe/LanczosSubspace
+	url = https://github.com/HengyueLi/LanczosSubspace
+[submodule "Depe/CodeObject"]
+	path = Depe/CodeObject
+	url = https://github.com/HengyueLi/CodeObject
