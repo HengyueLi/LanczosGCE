@@ -1,6 +1,8 @@
 # LanczosGCE
 ## Requirements
 Fortran(2003) + lapack
+## How to use it?
+Follow the steps in /Install.
 ## Introduction
 One should first have a knowdge of what [LanczosSubspace](https://github.com/HengyueLi/LanczosSubspace) object it is. This module is an extension of that. </br>&nbsp;
 LanczosGCE is a Quantum Cluster Solver for fermion spin 1/2 system. It considers a Grand Canonical Ensemble(GCE) system. You can use this code to study a quantum cluster model(Hubbard model for instance) within several tens of lines of code. All kinds of interactions can be considered. The symmetry (  [H,N] = 0 , [H,S</sub>z</sub>]=0) of the system can be considered to increase the speed and save the memory.
